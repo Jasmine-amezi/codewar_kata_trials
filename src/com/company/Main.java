@@ -15,5 +15,7 @@ public class Main {
     TwoSum mySum = new TwoSum();
     int [] numbers = new int[]{1,2,};
     mySum.twoSum(numbers, 3);
+    DigitalRoot test_5 = new DigitalRoot();
+    test_5.digital_root(988);
     }
 }

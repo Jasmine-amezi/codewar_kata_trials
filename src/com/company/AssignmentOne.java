@@ -1,3 +1,8 @@
+/*
+This code snippet has to do with string manipulation using most of the inbuilt functions in Java
+ */
+
+
 package com.company;
 import java.util.Scanner;
 
